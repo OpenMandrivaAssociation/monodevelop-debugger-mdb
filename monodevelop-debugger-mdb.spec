@@ -1,5 +1,5 @@
 Name:     	monodevelop-debugger-mdb
-Version:	2.2.1
+Version:	2.4
 Release:	%mkrel 1
 License:	MIT
 BuildArch:      noarch
