@@ -3,7 +3,7 @@ Version:	2.4
 Release:	%mkrel 2
 License:	MIT
 BuildArch:      noarch
-URL:		http://www.go-mono.com
+URL:		https://www.go-mono.com
 Source0:	http://ftp.novell.com/pub/mono/sources/monodevelop-debugger-mdb/%{name}-%{version}.tar.bz2
 BuildRequires:  monodevelop >= %version
 BuildRequires:  libmono-debugger-devel
