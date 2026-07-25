@@ -1,6 +1,6 @@
 Name:     	monodevelop-debugger-mdb
 Version:	2.4
-Release:	%mkrel 2
+Release:	3
 License:	MIT
 BuildArch:      noarch
 URL:		https://www.go-mono.com
